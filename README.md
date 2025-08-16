@@ -7,6 +7,50 @@
       />
 </p> 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vijayramesh26&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Visitors" />
+</p>
+
+<p align="center" >
+   <a href="https://www.linkedin.com/in/vijay-ramesh-7ab042212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rameshvijay-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:vijayramesh26301@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="mailto:vijayramesh26301@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p> 
+<!--
+-->
+
+## ⭐ Featured Projects
+
+<!-- PROJECT 1 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijayramesh26&repo=Portfolio)](https://github.com/Vijayramesh26/Portfolio)
+
+[![Code](https://img.shields.io/badge/-Code-black?style=for-the-badge&logo=github)](https://github.com/Vijayramesh26/Portfolio)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rameshvijay-portfolio.web.app/)
+
+<!-- PROJECT 2 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijayramesh26&repo=ifsc_locator)](https://github.com/Vijayramesh26/ifsc_locator)
+
+[![Code](https://img.shields.io/badge/-Code-black?style=for-the-badge&logo=github)](https://github.com/Vijayramesh26/ifsc_locator)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ifsc-locator-by-vijay.web.app/)
+
+<!-- PROJECT 3 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijayramesh26&repo=chat.ai)](https://github.com/Vijayramesh26/chat.ai)
+
+[![Code](https://img.shields.io/badge/-Code-black?style=for-the-badge&logo=github)](https://github.com/Vijayramesh26/chat.ai)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chat-ai-by-vijay.web.app/)
+
+ 
+
+## 💫 About Me:
 
 <!-- # 👋 Hi, I'm Vijay Ramesh  -->
 
@@ -15,9 +59,7 @@
 🌍 Open to global opportunities — **India 🇮🇳 | Singapore 🇸🇬**  
 🚀 **Code. Create. Innovate.**  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vijayramesh26&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Visitors" />
-</p>
+
 <!--
 <p align="center" >
   <a href="https://www.linkedin.com/in/vijay-ramesh-7ab042212" target="_blank" >
@@ -35,22 +77,7 @@
   
 </p> 
  -->
-<p align="center" >
-   <a href="https://www.linkedin.com/in/vijay-ramesh-7ab042212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://rameshvijay-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="mailto:vijayramesh26301@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-    <a href="mailto:vijayramesh26301@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p> 
-<!--
--->
+
 
 ## 🛠 Tech Arsenal  
  
