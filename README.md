@@ -27,7 +27,7 @@
 # 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vijay-ramesh-7ab042212)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages\&logoColor=white)](https://vijayramesh26.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages\&logoColor=white)](https://rameshvijay-portfolio.web.app)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail\&logoColor=white)](mailto:vijayramesh26301@gmail.com)
 
 ---
