@@ -13,33 +13,21 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Vijayramesh26&label=Profile%20Views&color=brightgreen&style=for-the-badge)  
 
----
+ 
 
 ## 🛠 Tech Arsenal  
-
-### 🔹 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nuxt,vue,vuetify,flutter" height="48" />
+ 
+<p  align="center">
+  <img src="https://skillicons.dev/icons?i=nuxt,vue,vuetify,flutter,go,java,mysql,git,github,postman,figma,docker,firebase,pinia,mongodb,js,html,css,vscode,&perline=5" height="548" /> 
 </p>
+ 
+ 
 
-### 🔹 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=go,java" height="48" />
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Vijayramesh26/Vijayramesh26/blob/fce06197863a8dec971db8070155d66282c0c2d1/dist/snake.svg" />
 </p>
-
-### 🔹 Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" />  
-  <img src="https://img.shields.io/badge/GORM-ORM-blue?style=for-the-badge&logo=go&logoColor=white" height="28"/>  
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
-</p>
-
-### 🔹 Tools & DevOps  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker" height="48" />
-</p>
-
----
+ 
 
 ## 📊 GitHub Mastery  
 
@@ -52,36 +40,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayramesh26&layout=compact&theme=radical" height="180"/>
 </p>
 
----
+ 
 
 ## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vijayramesh26&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
-
----
+ 
 
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vijay-ramesh-7ab042212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center" >
+  <a href="https://www.linkedin.com/in/vijay-ramesh-7ab042212" target="_blank" >
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=5" height="548"  /> 
   </a>
-  <a href="https://rameshvijay-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <a href="https://www.instagram.com/vijayramesh_rvj/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram&perline=5" height="548" /> 
   </a>
-  <a href="mailto:vijayramesh26301@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:vijayramesh26301@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail&perline=5" height="548" /> 
   </a>
 </p>
 
----
+ 
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Vijayramesh26/Vijayramesh26/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ✨ *"First, solve the problem. Then, write the code."*  
