@@ -4,6 +4,9 @@
 🌍 Open to opportunities in **India** and **Singapore**.  
 🚀 Passionate about building clean, efficient, and user-friendly solutions.  
 
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)  
+
+
 ---
 
 ## 🛠 Tech Stack
